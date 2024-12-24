@@ -12,11 +12,15 @@ main:
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
-  - title: "Educations"
-    url: "/#-educations"
-
-  - title: "Invited Talks"
-    url: "/#-invited-talks"
+  - title: "Education"
+    url: "/#-education"
 
   - title: "Internships"
     url: "/#-internships"
+
+  # 可根据需要添加其他部分
+  # - title: "Projects"
+  #   url: "/#-projects"
+
+  # - title: "Skills & Interests"
+  #   url: "/#-skills-and-interests"
