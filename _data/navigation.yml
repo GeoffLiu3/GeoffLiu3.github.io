@@ -3,20 +3,30 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
-  - title: "News"
-    url: "/#-news"
+  - title: "Education"
+    url: "/#-education"
 
-  - title: "Publications"
-    url: "/#-publications"
+  - title: "Experience"
+    url: "/#-experience"
 
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+  - title: "Projects"
+    url: "/#-projects"
 
-  - title: "Educations"
-    url: "/#-educations"
+  - title: "Skills & Interests"
+    url: "/#-skills-and-interests"
 
-  - title: "Invited Talks"
-    url: "/#-invited-talks"
+# 注释掉不需要的导航栏链接
+#   - title: "News"
+#     url: "/#-news"
 
-  - title: "Internships"
-    url: "/#-internships"
+#   - title: "Publications"
+#     url: "/#-publications"
+
+#   - title: "Honors and Awards"
+#     url: "/#-honors-and-awards"
+
+#   - title: "Invited Talks"
+#     url: "/#-invited-talks"
+
+#   - title: "Internships"
+#     url: "/#-internships"
