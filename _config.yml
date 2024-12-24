@@ -46,19 +46,17 @@ author:
   # youtube:
   # wikipedia:
 
-# Plugins (仅保留必要插件)
+# Plugins
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-feed
+whitelist:
+  - jekyll-gist
+  - jemoji
 
-# 其他注释掉的部分
-# whitelist:
-#   - jekyll-gist
-#   - jemoji
-
-# HTML Compression (可根据需要开启)
-# compress_html:
-#   clippings: all
-#   ignore:
-#     envs: development
+# HTML Compression
+compress_html:
+  clippings: all
+  ignore:
+    envs: development
