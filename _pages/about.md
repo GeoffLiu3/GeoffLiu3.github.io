@@ -65,7 +65,7 @@ Xiujie Tan, **Gufeng Liu**, Si Cheng.
 
 # 💻 Internships
 
-## Apple Inc. | Data Scientist Intern
+## Apple Inc. | Data Scientist Intern 🍎
 ### *Beijing, China | Mar 2024 - Aug 2024*
 - **Sales Performance Monitoring**
   - Monitored and assessed sales performance metrics (GMV, SO, etc.) across 4 live streams and 5 storefronts.
@@ -83,7 +83,7 @@ Xiujie Tan, **Gufeng Liu**, Si Cheng.
   - Partnered with product managers, data scientists, and external data engineering teams to align business requirements with technical solutions.
   - Collaborated with external teams to create business-oriented dashboards, improving non-technical stakeholders’ ability to interpret performance metrics and make informed decisions.
 
-## Nestlé S.A. | Data Analyst Intern
+## Nestlé S.A. | Data Analyst Intern ☕
 ### *Beijing, China | Apr 2024 - Jun 2024*
 - **Investment Impact Analysis**
   - Investigated the impact of online and offline investments on sales performance over 24 months and 20+ coffee product categories using 130+ variables.
@@ -95,7 +95,7 @@ Xiujie Tan, **Gufeng Liu**, Si Cheng.
   - Recommended cross-channel investment strategies by evaluating **synergies** between online and offline channels, contributing to **15-20% potential sales growth**.
   - Provided actionable insights to enhance **long-term brand impact** and **market expansion** through tailored investment strategies in China.
 
-## SAS Institute Inc. | Data Engineer Intern
+## SAS Institute Inc. | Data Engineer Intern 🔍
 ### *Beijing, China | Dec 2023 - Feb 2024*
 - **Data Processing & Feature Engineering**
   - Processed and analyzed **50 billion business records** for a major state-owned bank, leveraging **SAS** to enhance data quality and customer interaction management.
