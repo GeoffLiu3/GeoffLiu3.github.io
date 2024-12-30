@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Gufeng Liu's Personal Website"
-description              : "M.S. in Business Analytics at Columbia University | Data Analyst Intern | Rock Keyboard Player"
+description              : "M.S. in Business Analytics @ Columbia University & Tsinghua University | Seeking DS/DA Opportunity | Rock Keyboard Player"
 repository               : "GeoffLiu3/GeoffLiu.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,14 +23,14 @@ google_scholar_stats_use_cdn : true
 author:
   name             : "Gufeng Liu"
   avatar           : "images/avatar.jpg"  # 确保您头像文件路径正确
-  bio              : "M.S. in Business Analytics at Columbia University and Tsinghua University"
+  bio              : "Dual M.S. in Business Analytics @ Columbia University & Tsinghua University"
   location         : "New York, NY"
   # employer         : "Apple Inc."  # 如果需要显示当前工作公司信息，可以取消注释
   # pubmed           : 
-  # googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"  # 填写 Google Scholar 链接
+  googlescholar    : "https://scholar.google.com/citations?user=g7jYVq4AAAAJ"
   email            : "gl2915@columbia.edu"
   linkedin         : "https://www.linkedin.com/in/gufeng-liu/"
-  github           : "GeoffLiu3"
+  github           : "https://github.com/GeoffLiu3?tab=repositories"
   # instagram        :
   # orcid            :
   # pinterest        :
