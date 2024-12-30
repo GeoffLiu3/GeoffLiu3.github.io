@@ -44,13 +44,13 @@ Hello! My name is **Gufeng Liu**, and I am currently pursuing a **[Dual Master‚Ä
 
 # üìù Projects
 
-- **Publication(https://doi.org/10.1016/j.resourpol.2023.104559)**
+- **[Publication](https://doi.org/10.1016/j.resourpol.2023.104559)**  
 
-How does ESG performance affect green transformation of resource-based enterprises: Evidence from Chinese listed enterprises.
+  **How does ESG performance affect green transformation of resource-based enterprises: Evidence from Chinese listed enterprises**  
 
-Xiujie Tan, **Gufeng Liu**, Si Cheng.
+  *Resources Policy*, Volume 89, February 2024, Article 104559  
 
-*Resources Policy*, Volume 89, February 2024, 104559.
+  Xiujie Tan, **Gufeng Liu**, Si Cheng  
 
 - **[IT Automation Prediction Project](https://medium.com/analytics-in-action-columbia-business-school/from-data-to-automation-revolutionizing-it-support-at-electric-4661ab08cf57)**  
   *Sep 2024 - Dec 2024*  
