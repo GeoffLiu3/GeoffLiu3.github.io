@@ -51,10 +51,8 @@ Hello! My name is **Gufeng Liu**, and I am currently pursuing a **Dual Master’
 
 # 💻 Internships
 
-### Apple Inc. | Data Scientist Intern
-
-*Beijing, China | Mar 2024 - Aug 2024*
-
+## Apple Inc. | Data Scientist Intern
+### *Beijing, China | Mar 2024 - Aug 2024*
 - **Sales Performance Monitoring**
   - Monitored and assessed sales performance metrics (GMV, SO, etc.) across 4 live streams and 5 storefronts.
   - Identified anomalies and conducted 10+ attribution analyses, providing actionable insights to support management in refining live stream strategies.
@@ -71,10 +69,8 @@ Hello! My name is **Gufeng Liu**, and I am currently pursuing a **Dual Master’
   - Partnered with product managers, data scientists, and external data engineering teams to align business requirements with technical solutions.
   - Collaborated with external teams to create business-oriented dashboards, improving non-technical stakeholders’ ability to interpret performance metrics and make informed decisions.
 
-### Nestlé S.A. | Data Analyst Intern
-
-*Beijing, China | Apr 2024 - Jun 2024*
-
+## Nestlé S.A. | Data Analyst Intern
+### *Beijing, China | Apr 2024 - Jun 2024*
 - **Investment Impact Analysis**
   - Investigated the impact of online and offline investments on sales performance over 24 months and 20+ coffee product categories using 130+ variables.
   - Applied linear regression to identify key influences on sales, emphasizing **heterogeneity** (e.g., differences across investment types) and **lag effects** to uncover delayed responses in sales performance.
@@ -85,10 +81,8 @@ Hello! My name is **Gufeng Liu**, and I am currently pursuing a **Dual Master’
   - Recommended cross-channel investment strategies by evaluating **synergies** between online and offline channels, contributing to **15-20% potential sales growth**.
   - Provided actionable insights to enhance **long-term brand impact** and **market expansion** through tailored investment strategies in China.
 
-### SAS Institute Inc. | Data Engineer Intern
-
-*Beijing, China | Dec 2023 - Feb 2024*
-
+## SAS Institute Inc. | Data Engineer Intern
+### *Beijing, China | Dec 2023 - Feb 2024*
 - **Data Processing & Feature Engineering**
   - Processed and analyzed **50 billion business records** for a major state-owned bank, leveraging **SAS** to enhance data quality and customer interaction management.
   - Standardized **627 features** using feature engineering techniques, including resolving logical conflicts in data definitions and handling missing values to improve usability and consistency.
@@ -97,7 +91,7 @@ Hello! My name is **Gufeng Liu**, and I am currently pursuing a **Dual Master’
   - Automated workflows with SAS macros to calculate interaction metrics, such as quarterly averages and normalized contributions, reducing manual effort and accelerating data preparation by one week.
   - Delivered actionable insights by establishing data-driven standards for customer segmentation, laying a foundation for regression analysis and predictive modeling to support the bank’s digital transformation initiatives.
 
-# 💫Interests
+# 💫 Interests
 
 ## 🎹 Music
 
