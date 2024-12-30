@@ -44,15 +44,18 @@ Hello! My name is **Gufeng Liu**, and I am currently pursuing a **[Dual Master‚Ä
 
 # üìù Projects
 
-- Publication
-  **[How does ESG performance affect green transformation of resource-based enterprises: Evidence from Chinese listed enterprises.](https://doi.org/10.1016/j.resourpol.2023.104559)**
-  Xiujie Tan, **Gufeng Liu**, Si Cheng.
-  *Resources Policy*, Volume 89, February 2024, 104559.
+- **Publication(https://doi.org/10.1016/j.resourpol.2023.104559)**
+
+How does ESG performance affect green transformation of resource-based enterprises: Evidence from Chinese listed enterprises.
+
+Xiujie Tan, **Gufeng Liu**, Si Cheng.
+
+*Resources Policy*, Volume 89, February 2024, 104559.
 
 - **[IT Automation Prediction Project](https://medium.com/analytics-in-action-columbia-business-school/from-data-to-automation-revolutionizing-it-support-at-electric-4661ab08cf57)**  
   *Sep 2024 - Dec 2024*  
   - Undertaken as part of the **[Analytics in Action](https://daniel.guetta.com/ana)** course, a selective program combining real-world projects and cross-functional collaboration with MBA teammates.  
-  - Collaborated with **Electric** ([a New York-based IT service provider](https://www.electric.ai)) to automate the classification of **737K IT tickets** (10M+ messages), reducing repetitive workload and identifying automation opportunities, saving **$2M+ annually** by automating 15.2% of monthly tickets.  
+  - Collaborated with **[Electric](https://www.electric.ai)** (a New York-based IT service provider) to automate the classification of **737K IT tickets** (10M+ messages), reducing repetitive workload and identifying automation opportunities, saving **$2M+ annually** by automating 15.2% of monthly tickets.  
   - Executed the full data pipeline:  
     - Downloaded and processed raw data from the **Snowflake platform**, ensuring data integrity and accessibility.  
     - Maintained and optimized **notebook code files**, enhancing reproducibility and enabling team collaboration on analytics tasks.  
