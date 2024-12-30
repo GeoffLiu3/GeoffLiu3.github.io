@@ -16,7 +16,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello! My name is **Gufeng Liu**, and I am currently pursuing a **[Dual Master’s Degree in Business Analytics](https://masters.sem.tsinghua.edu.cn/en/qhdx_glbydxswfxsssxwxm/Program_Content.htm)** at **Columbia University** and **Tsinghua University**. My research interests include **data analysis**, **statistical modeling**, and **machine learning**. I am passionate about leveraging data to uncover actionable insights and improve decision-making processes. With hands-on experience in industry-leading projects, I aim to bridge the gap between analytics and strategy.
+Hello! My name is **Gufeng Liu**, and I am currently pursuing a **[Dual Master’s Degree in Business Analytics](https://masters.sem.tsinghua.edu.cn/en/qhdx_glbydxswfxsssxwxm/Program_Content.htm)** at **Columbia University** and **Tsinghua University**. My focus lies in **data analysis**, **statistical modeling**, and **machine learning**, with a passion for transforming complex datasets into clear, actionable strategies.  
+
+Through hands-on experience in diverse projects, I have honed my ability to bridge the technical and business worlds, crafting solutions that drive measurable outcomes. I thrive on tackling challenges that require both analytical rigor and creative problem-solving, and I am excited to contribute my skills to the fast-evolving intersection of technology and decision-making.  
 
 # 🔥 News
 
