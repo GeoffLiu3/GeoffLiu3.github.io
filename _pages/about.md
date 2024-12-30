@@ -16,7 +16,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello! My name is **Gufeng Liu**, and I am currently pursuing a **Dual Master’s Degree in Business Analytics** at **Columbia University** and **Tsinghua University**. My research interests include **data analysis**, **statistical modeling**, and **machine learning**. I am passionate about leveraging data to uncover actionable insights and improve decision-making processes. With hands-on experience in industry-leading projects, I aim to bridge the gap between analytics and strategy.
+Hello! My name is **Gufeng Liu**, and I am currently pursuing a **[Dual Master’s Degree in Business Analytics]**(https://masters.sem.tsinghua.edu.cn/en/qhdx_glbydxswfxsssxwxm/Program_Content.htm) at **Columbia University** and **Tsinghua University**. My research interests include **data analysis**, **statistical modeling**, and **machine learning**. I am passionate about leveraging data to uncover actionable insights and improve decision-making processes. With hands-on experience in industry-leading projects, I aim to bridge the gap between analytics and strategy.
 
 # 🔥 News
 
@@ -42,12 +42,24 @@ Hello! My name is **Gufeng Liu**, and I am currently pursuing a **Dual Master’
 - *2019-2023*: **Scholarship for Outstanding Students**, Wuhan University (awarded annually)
 - *2021*: Recognized among the **'Top Ten Musicians'**, Wuhan University
 
-# 📝 Publications
+# 📝 Projects
 
 - **How does ESG performance affect green transformation of resource-based enterprises: Evidence from Chinese listed enterprises**
   *Resources Policy*, Volume 89, February 2024, 104559.
   Authors: Xiujie Tan, **Gufeng Liu**, Si Cheng
   [DOI: 10.1016/j.resourpol.2023.104559](https://doi.org/10.1016/j.resourpol.2023.104559)
+
+- **Electric | IT Automation Prediction Project**  
+  *Sep 2024 - Dec 2024*  
+  - Served as the **team’s Data Engineer & Scientist**, leading the **full data pipeline** for the project.  
+  - Automated the classification of **737K IT tickets** (10M+ messages) for Electric, a New York-based IT service provider, reducing repetitive workload and identifying automation opportunities, saving **$2M+ annually** by automating 15.2% of monthly tickets.  
+  - Executed the full data pipeline:  
+    - Downloaded and processed raw data from the **Snowflake platform**, ensuring data integrity and accessibility.  
+    - Maintained and optimized **notebook code files**, enhancing reproducibility and enabling team collaboration on analytics tasks.  
+    - Cleaned and balanced data using **SMOTE**.  
+    - Fine-tuned ML models (**LightGBM**, etc.) with **Bayesian optimization**, achieving **86% average precision** and refining outputs to **95% accuracy** with a threshold-based approach.  
+  - Collaborated with Electric's Head of Data and MBA teammates to align project goals and deliver insights for scalable automation strategies, improving efficiency and cutting operational costs.  
+  - Learn more: [From Data to Automation: Revolutionizing IT Support at Electric](https://medium.com/analytics-in-action-columbia-business-school/from-data-to-automation-revolutionizing-it-support-at-electric-4661ab08cf57)  
 
 # 💻 Internships
 
