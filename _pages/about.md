@@ -33,9 +33,9 @@ Through hands-on experience in diverse projects, I have honed my ability to brid
 
 # 📖 Educations
 
-- **Columbia University**, M.S. in Business Analytics, GPA: 4.00/4.00 (Sep 2024 - Expected Dec 2025)
-- **Tsinghua University**, M.S. in Management Science & Engineering, GPA: 3.90/4.00 (Sep 2023 - Jun 2024)
-- **Wuhan University**, B.S. in PPE (Philosophy, Politics, and Economics), GPA: 3.88/4.00 (Sep 2019 - Jun 2023)
+- **Columbia University** (Sep 2024 - Expected Dec 2025), M.S. in Business Analytics, GPA: 4.00/4.00
+- **Tsinghua University** (Sep 2023 - Jun 2024), M.S. in Management Science & Engineering, GPA: 3.90/4.00
+- **Wuhan University** (Sep 2019 - Jun 2023), B.S. in PPE (Philosophy, Politics, and Economics), GPA: 3.88/4.00
 
 # 🎖 Honors and Awards
 
