@@ -22,14 +22,14 @@ Through hands-on experience in diverse projects, I have honed my ability to brid
 
 # 🔥 News
 
-- *2024.11*: 🎉 Awarded the **2024 Tsinghua Graduate Excellence Scholarship** (Top 20%) and the **Overseas Study Excellence Scholarship**.
-- *2024.8*: Started the **M.S. in Business Analytics** program at Columbia University.
-- *2024.3*: Joined **Apple** as a Data Scientist Intern.
-- *2023.12*: Published an empirical study on energy economics as the first student author in *[Resources Policy](https://doi.org/10.1016/j.resourpol.2023.104559)*.
-- *2023.9*: Started the **M.S. in Management Science & Engineering** program at Tsinghua University.
-- *2023.6*: Graduated with a **B.S. in PPE (Philosophy, Politics, and Economics)** from Wuhan University.
-- *2022.9*: Pre-admitted to the dual master's program in Business Analytics at Tsinghua and Columbia University.
-- *2021.12*: Honored as one of **Wuhan University's Top Ten Musicians** for keyboard performances.
+- *2024.11*: 🏆 Awarded the **2024 Tsinghua Graduate Excellence Scholarship** (Top 20%) and the **Overseas Study Excellence Scholarship**.
+- *2024.08*: 🏫 Started the **M.S. in Business Analytics** program at Columbia University.
+- *2024.03*: 💼 Joined **Apple** as a Data Scientist Intern.
+- *2023.12*: 📄 Published an empirical study on energy economics as the first student author in *[Resources Policy](https://doi.org/10.1016/j.resourpol.2023.104559)*.
+- *2023.09*: 🏫 Started the **M.S. in Management Science & Engineering** program at Tsinghua University.
+- *2023.06*: 🎓 Graduated with a **B.S. in PPE (Philosophy, Politics, and Economics)** from Wuhan University.
+- *2022.09*: 📢 Pre-admitted to the dual master's program in Business Analytics at Tsinghua and Columbia University.
+- *2021.12*: 🎹 Honored as one of **Wuhan University's Top Ten Musicians** for keyboard performances.
 
 # 📖 Educations
 
@@ -109,7 +109,7 @@ Through hands-on experience in diverse projects, I have honed my ability to brid
 
 # 💫 Interests
 
-## 🎹 Music
+## 🎶 Music
 
 - Started learning **piano** in 2012 and became a **keyboard player** in 2019.
 - Played keyboard for two bands:
