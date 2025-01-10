@@ -33,7 +33,7 @@ Through hands-on experience in diverse projects, I have honed my ability to brid
 
 # 📖 Educations
 
-- **Columbia University** (Sep 2024 - Expected Dec 2025), M.S. in Business Analytics, GPA: 4.00/4.00
+- **Columbia University** (Sep 2024 - Expected Dec 2025), M.S. in Business Analytics, GPA: 4.06/4.00
 - **Tsinghua University** (Sep 2023 - Jun 2024), M.S. in Management Science & Engineering, GPA: 3.90/4.00
 - **Wuhan University** (Sep 2019 - Jun 2023), B.S. in PPE (Philosophy, Politics, and Economics), GPA: 3.88/4.00
 
@@ -52,7 +52,7 @@ Through hands-on experience in diverse projects, I have honed my ability to brid
 
   *Resources Policy*, Volume 89, February 2024, Article 104559  
 
-  Xiujie Tan, **Gufeng Liu**, Si Cheng  
+  Xiujie Tan, **Gufeng Liu**, Si Cheng*  
 
 - **[IT Automation Prediction Project](https://medium.com/analytics-in-action-columbia-business-school/from-data-to-automation-revolutionizing-it-support-at-electric-4661ab08cf57)**  
   *Sep 2024 - Dec 2024*  
@@ -149,7 +149,7 @@ Through hands-on experience in diverse projects, I have honed my ability to brid
      - **Validation Roles**: As AI becomes integrated into every industry, a new class of jobs could emerge around validating AI-generated outputs. Today, users frequently review and verify AI-generated content, and in the future, this process may evolve into a standard professional function.
      - **Domain Expertise**: Effective use of AI requires domain-specific knowledge to validate outputs accurately. Professionals will need to master their fields to ensure AI-generated content aligns with industry standards and best practices. Additionally, this expertise can contribute to creating higher-quality training data, improving AI systems over time.
    - In essence, while AI may disrupt traditional roles, it will likely lead to the creation of complementary positions that focus on working alongside AI, ensuring accuracy, and maximizing its potential within specialized fields.
-2. **AI’s Time Complexity Advantage**:
+2. **AI's Time Complexity Advantage**:
 
    - AI drastically reduces task complexity by transforming **optimizer-level thinking** (finding answers from scratch) into **verifier-level thinking** (evaluating AI-generated answers).
    - This shift mirrors algorithmic principles, where verification is often faster and less complex than optimization.
